@@ -55,6 +55,7 @@ public class Controller : MonoBehaviour
         {
             current.orthographicSize += speed * Time.deltaTime * multiplier;
         }
+        current.orthographicSize = Mathf.Clamp(current.orthographicSize, 1f, 2000f);
         if (birdsEye.enabled)
         {
             if (Input.GetKey(KeyCode.A))
