@@ -1,7 +1,7 @@
 # Simple Solar System
 
-A Unity project that visualises the Solar System with orbiting planets, created as during the first few weeks of my Games Development module.  
-Each planet orbits the Sun with roughly scaled speeds, and the scene includes basic camera controls, a toggle to pause the orbits, and some fun extras like a moon and the Universal logo orbiting Earth.
+A Unity project that visualises the Solar System with orbiting planets, created during the first few weeks of my Games Development module in second year.  
+Each planet orbits the Sun with roughly scaled speeds and sizes, and the scene includes basic camera controls, a toggle to pause the orbits, and some fun extras like a moon and the Universal logo orbiting Earth.
 
 ---
 
